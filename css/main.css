@@ -1,0 +1,200 @@
+.firstSection{
+
+    width: 100%;
+    background-image: url("../images/1.png");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+header  .line{
+width: 100%;
+height: 10px;
+background-color: #2ecc71;
+}
+
+.part1{
+
+display: inline-block;
+padding-top: 80px;
+padding-left: 220px;
+color: #fff;
+
+}
+.part1 h1{
+
+font-family : 'Pacifico', cursive;
+font-size: 60px;
+}
+.part1 img{
+  margin-left: 8px;
+}
+
+.part2{
+
+  display: inline-block;
+  float: right;
+
+  padding-top: 60px;
+  padding-right: 220px;
+}
+
+
+.part2 img{
+  width:350px;
+}
+/*******************************************/
+.secondSection {
+  text-align: center;
+}
+.secondSection .features{
+
+  display: inline-block;
+  /*margin-left: 78px;*/
+  text-align: center;
+margin: 50px ;
+
+}
+
+.secondSection .features img{
+  width: 77px;
+}
+.secondSection .features h2{
+
+
+color: #222222;
+font-family: 'Raleway', sans-serif;
+}
+
+
+.secondSection .features p{
+
+color: #848484;
+}
+/**************************/
+.thirdSection {
+width: 100%;
+background-color: #e3e3e3;
+position: relative;
+
+
+
+}
+.thirdSection .sec1{
+  display: inline-block;
+  margin-left: 164px;
+  margin-top: 30px;
+  margin-bottom: 100px;
+
+
+}
+.thirdSection .sec1 h2{
+  color: #222222;
+  font-family: 'Raleway', sans-serif;
+}
+
+.thirdSection .sec1 p{
+
+color: #848484;
+}
+.thirdSection .sec1 input[type=text]{
+  width: 60%;
+     border: 1px solid #ccc;
+    padding: 5px 10px;
+
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px ;
+    border:none;
+
+}
+.thirdSection .sec1 button{
+
+  padding: 5px 45px;
+
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    background-color:#2ecc71 ;
+    margin-left: -8px;
+    color: #fff;
+    font-family: 'Raleway', sans-serif;
+     border:none;
+
+}
+.thirdSection .sec1 button:hover{
+
+ background-color:#26a55c;
+
+}
+.thirdSection .sec2{
+  display:  inline-block;
+
+ position:  absolute;
+ right: 180px;
+ top :40px;
+
+
+}
+
+.thirdSection .sec2 frame{
+  border-radius: 20px;
+}
+
+
+
+/*********************************/
+.fourthSection{
+
+  text-align:  center;
+  margin-top: 30px;
+}
+.fourthSection  p{
+
+color: #848484;
+}
+.fourthSection h2 , h3{
+  color: #222222;
+  font-family: 'Raleway', sans-serif;
+}
+
+
+.finsh{
+  text-align:  center;
+  background-color: #e3e3e3;
+  height: 60px;
+
+}
+
+.finsh ul{
+  margin: 0;
+}
+
+.finsh li{
+
+color: #848484;
+display:  inline-block;
+padding: 20px;
+
+}
+
+.finsh li a{
+  color:  inherit;
+  text-decoration: none;
+
+}
+
+
+
+
+.y  {
+  width: 30px;
+  height: 30px;
+  background-color: #d4d4d4;
+  border-radius: 50%;
+  padding: 5px;
+  margin: 5px;
+}
+
+.y:hover{
+  background-color: #2ecc71 ;
+}
+
+
+
